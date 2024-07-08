@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @giovansb
-- 👀 I’m interested in Front-end web development
-- 🌱 I’m currently learning CSS, Javascript and Python
-- 💞️ I’m looking to collaborate on any project where I can work on front-end skills
-- 📫 How to reach me by email: giovana.a.s.barbosa@outlook.com
+- 👋 Oi, sou a Giovana Barbosa.
+- 👀 Estou interessada na área de Front-end web development
+- 🌱 Atualmente estrou aprendendo Javascript e Python
+- 💞️ Estou aberta e na busca de colaborar em projetos que exercitem e evoluam minhas habilidades de front-end
+- 📫 Como me encontrar, email: giovanabarbosa119@gmail.com
 
 <!---
 giovansb/giovansb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
